@@ -4,7 +4,7 @@ This is an R script (R Notebook) that can be used to generate a visualization of
 
 The output is a self-contained interactive HTML document that looks like the following:
 
-
+![](resources/output-example.png)
 
 ## Reference
 
