@@ -30,4 +30,4 @@ The second tab is the **Data Flows** worksheet that actually provides the data t
 
 ## Running the Script
 
-If the Google Sheet is set up and the `googlesheets_id` updated, then it should simply be a matter of running all of the chunks in `network-diagram.Rmd`. If you save that notebook after it's run, you should have a `network-diagram.nb.html` as output (you can manipulate the chunk options in the notebook to surpress all of the code by adding `echo = FALSE` to every chunk).
+If the Google Sheet is set up and the `googlesheets_id` updated, then it should simply be a matter of running all of the chunks in `network-diagram.Rmd`. If you save that notebook after it's run, you should have a `network-diagram.nb.html` as output (you can manipulate the chunk options in the notebook to suppress all of the code by adding `echo = FALSE` to every chunk).
